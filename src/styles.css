@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.product {
+  border: 1px solid grey;
+  padding: 5px 2px;
+}
+
+.loading {
+  margin: 5px 10px;
+  color: #0077be;
+}
